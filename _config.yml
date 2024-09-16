@@ -21,7 +21,7 @@ repository               : "l-lyl/yuli-liu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-liu.png"
+  avatar           : "profile.png"
   name             : "Yuli Liu"
   pronouns         : # example: "she/her"  
   bio              : "liuyuli012 AT gmail.com"
