@@ -21,8 +21,8 @@ repository               : "l-lyl/yuli-liu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-liu.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  name             : "Yuli Liu (刘玉利)"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Computer Science, liuyuli012 AT gmail.com"
   location         : "China"
