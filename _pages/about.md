@@ -16,7 +16,7 @@ Recent News
 
 [2024-05] Our paper "Probabilistic Attention for Sequential Recommendation" is accepted by [KDD 2024](https://kdd2024.kdd.org/).
 
-[2023-12] I served as Area Chair for [ACM MM 2024](https://2024.acmmm.org/).
+[2023-12] I will serve as Area Chair for [ACM MM 2024](https://2024.acmmm.org/).
 
 [2023-12] Our paper "Learning k-Determinantal Point Processes for Personalized Ranking" is accepted by [ICDE 2024](https://icde2024.github.io/).
 
