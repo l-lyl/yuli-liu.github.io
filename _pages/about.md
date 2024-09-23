@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me (Yuli Liu)"
 author_profile: true
 redirect_from: 
   - /about/
