@@ -43,17 +43,21 @@ Area Chair: ACM MM 2024
 
 Honor and Awards
 ======
-Excellent Master Graduate in Tsinghua University, 2017
-  Top 100 out of 2500+ master degree graduates in Tsinghua University.
+1. Excellent Master Graduate in Tsinghua University, 2017
+  
+    Top 100 out of 2500+ master degree graduates in Tsinghua University.
     
-Excellent Master Graduate in Beijing, 2017
-  Top 2 out of 70+ master degree graduates in Department of Computer Science and Technology Tsinghua University. 
+2. Excellent Master Graduate in Beijing, 2017
   
-Graduate National Scholarship, 2016
-  Top 10 out of 140+ graduate students in Department of Computer Science and Technology Tsinghua University.
+    Top 2 out of 70+ master degree graduates in Department of Computer Science and Technology Tsinghua University. 
   
-Data61 Top-up PhD Scholarship, 2019
-  Top-quality doctoral students in Australia’s data-skilled workforce.
+3. Graduate National Scholarship, 2016
+  
+    Top 10 out of 140+ graduate students in Department of Computer Science and Technology Tsinghua University.
+  
+4. Data61 Top-up PhD Scholarship, 2019
+  
+    Top-quality doctoral students in Australia’s data-skilled workforce.
 
 
 
