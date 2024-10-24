@@ -24,8 +24,8 @@ Recent News
 Selected Publications
 ======
 1.	**Yuli Liu**, Christian Walder, Lexing Xie, Yiqun Liu. Probabilistic Attention for Sequential Recommendation. KDD 2024 (CCF A) [ [Preprint Version](https://dl.acm.org/doi/pdf/10.1145/3637528.3671733) , [Code](https://github.com/l-lyl/PAtt/) ]
-2.	**Yuli Liu**. Pay Attention to Attention: Attention Weight Refinement for Sequential Recommendation. RecSys 2024 (CCF B) [ [Preprint Version](https://dl.acm.org/doi/10.1145/3640457.3688164) ]
-3.	**Yuli Liu**, Christian Walder, and Lexing Xie. Structured Determinantal Point Process for Temporal Sets Prediction. CIKM2024 (CCF B) [ [Preprint Version](A Universal Sets-level Optimization Framework for Next Set Recommendation) ]
+2.	**Yuli Liu**. Pay Attention to Attention: Attention Weight Refinement for Sequential Recommendation. RecSys 2024 (CCF B) [ [Preprint Version](https://dl.acm.org/doi/10.1145/3640457.3688164)]
+3.	**Yuli Liu**, Christian Walder, and Lexing Xie. Structured Determinantal Point Process for Temporal Sets Prediction. CIKM2024 (CCF B) [ [Preprint Version] (https://dl.acm.org/doi/10.1145/3640457.3688164) ]
 4.	**Yuli Liu**, Christian Walder, and Lexing Xie. Learning k-Determinantal Point Process for Recommendation. ICDE 2024 (CCF A) [ [Preprint Version](https://arxiv.org/pdf/2406.15983) , [Code](https://github.com/l-lyl/k-DPP4Ranking) ]
 5.	**Yuli Liu**, Christian Walder, and Lexing Xie. Determinantal Point Process Likelihoods for Sequential Recommendation. SIGIR 2022 (CCF A). [ [Preprint Version](https://arxiv.org/pdf/2204.11562) , [Code](https://github.com/l-lyl/DPPLikelihoods4SeqRec) ]
 2.	**Yuli Liu**. Recommending Inferior Results: A General and Feature-Free Model for Spam Detection. Proceedings of the 29th ACM International Conference on Information & Knowledge Management. CIKM 2020 (CCF B).  [Preprint Version](https://dl.acm.org/doi/10.1145/3340531.3411900) 
