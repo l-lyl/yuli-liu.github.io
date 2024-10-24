@@ -10,6 +10,8 @@ I am now working as Lecturer in the department of Computer Technology and Applic
 
 Recent News
 ======
+[2024-10] A solo paper "A Generative and Discriminative Model for Diversity-Promoting Recommendation" is accepted by [Information Systems](https://www.sciencedirect.com/journal/information-systems).
+
 [2024-06] Our paper "Pay Attention to Attention for Sequential Recommendation" is accepted by [RecSys 2024](https://recsys.acm.org/recsys24/).
 
 [2024-06] Our paper "A Universal Sets- level Optimization Framework for Next Set Recommendation" is accepted by [CIKM 2024](https://cikm2024.org/).
