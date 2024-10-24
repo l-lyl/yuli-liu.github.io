@@ -23,7 +23,7 @@ Recent News
 
 Selected Publications
 ======
-1.	**Yuli Liu**, Christian Walder, Lexing Xie, Yiqun Liu. Probabilistic Attention for Sequential Recommendation. KDD 2024 (CCF A) [ [Preprint Version](https://dl.acm.org/doi/pdf/10.1145/3637528.3671733) , [Code coming soon](https://github.com/l-lyl) ]
+1.	**Yuli Liu**, Christian Walder, Lexing Xie, Yiqun Liu. Probabilistic Attention for Sequential Recommendation. KDD 2024 (CCF A) [ [Preprint Version](https://dl.acm.org/doi/pdf/10.1145/3637528.3671733) , [Code](https://github.com/l-lyl/PAtt/) ]
 2.	**Yuli Liu**. Pay Attention to Attention: Attention Weight Refinement for Sequential Recommendation. RecSys 2024 (CCF B) [ [Code coming soon](https://github.com/l-lyl) ]
 3.	**Yuli Liu**, Christian Walder, and Lexing Xie. Structured Determinantal Point Process for Temporal Sets Prediction. CIKM2024 (CCF B) [ [Code coming soon](https://github.com/l-lyl) ]
 4.	**Yuli Liu**, Christian Walder, and Lexing Xie. Learning k-Determinantal Point Process for Recommendation. ICDE 2024 (CCF A) [ [Preprint Version](https://arxiv.org/pdf/2406.15983) , [Code](https://github.com/l-lyl/k-DPP4Ranking) ]
