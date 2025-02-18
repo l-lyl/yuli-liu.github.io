@@ -10,6 +10,8 @@ I am now working as Lecturer in the department of Computer Technology and Applic
 
 Recent News
 ======
+[2025-02] I will serve as Area Chair for [ACM MM 2025](https://acmmm2025.org/).
+
 [2025-02] Our paper "Diversity-Promoting Recommendation with Dual-Objective Optimization and Dual Consideration" is accepted by [Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69).
 
 [2024-11] A solo paper "Signed Latent Factors for Spamming Activity Detection" is accepted by [Transactions on Information Forensics & Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206).
@@ -22,7 +24,7 @@ Recent News
 
 [2024-05] Our paper "Probabilistic Attention for Sequential Recommendation" is accepted by [KDD 2024](https://kdd2024.kdd.org/).
 
-[2023-12] I will serve as Area Chair for [ACM MM 2024](https://2024.acmmm.org/).
+[2024-01] I will serve as Area Chair for [ACM MM 2024](https://2024.acmmm.org/).
 
 [2023-12] Our paper "Learning k-Determinantal Point Processes for Personalized Ranking" is accepted by [ICDE 2024](https://icde2024.github.io/).
 
