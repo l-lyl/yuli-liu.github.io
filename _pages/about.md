@@ -31,7 +31,7 @@ Recent News
 
 Selected Publications
 ======
-1.	**Yuli Liu**, YuAn Zhang. Diversity-Promoting Recommendation with Dual-Objective Optimization and Dual Consideration. Accepted by Transactions on Knowledge and Data Engineering (TKDE CCF A).
+1.	**Yuli Liu**, YuAn Zhang. Diversity-Promoting Recommendation with Dual-Objective Optimization and Dual Consideration. Accepted by Transactions on Knowledge and Data Engineering (TKDE CCF A) [ [Paper](https://ieeexplore.ieee.org/document/10891877/) , [Code](https://github.com/l-lyl/DDPR) ].
 2.	**Yuli Liu**. Signed Latent Factors for Spamming Activity Detection. Accepted by Transactions on Information Forensics & Security (TIFS CCF A) [ [Paper](https://ieeexplore.ieee.org/document/10795232)].
 3.	**Yuli Liu**. A Generative and Discriminative Model for Diversity-Promoting Recommendation. Accepted by Information Systems (CCF B) [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306437924001467)].
 4.	**Yuli Liu**, Christian Walder, Lexing Xie, Yiqun Liu. Probabilistic Attention for Sequential Recommendation. KDD 2024 (CCF A) [ [Paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671733) , [Code](https://github.com/l-lyl/PAtt/) ]
