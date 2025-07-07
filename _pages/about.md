@@ -10,6 +10,8 @@ I am now working as a Lecturer in the Department of Computer Technology and Appl
 
 Recent News
 ======
+[2025-07] Our paper "Why Generate When You Can Transform? Unleashing Generative Attention for Dynamic Recommendation" is accepted by [ACM Multimedia 2025](https://acmmm2025.org/).
+
 [2025-02] I will serve as Area Chair for [ACM MM 2025](https://acmmm2025.org/).
 
 [2025-02] Our paper "Diversity-Promoting Recommendation with Dual-Objective Optimization and Dual Consideration" is accepted by [IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69).
@@ -25,8 +27,6 @@ Recent News
 [2024-05] Our paper "Probabilistic Attention for Sequential Recommendation" is accepted by [KDD 2024](https://kdd2024.kdd.org/).
 
 [2024-01] I will serve as Area Chair for [ACM MM 2024](https://2024.acmmm.org/).
-
-[2023-12] Our paper "Learning k-Determinantal Point Processes for Personalized Ranking" is accepted by [ICDE 2024](https://icde2024.github.io/).
 
 
 Selected Publications
@@ -49,7 +49,7 @@ Recent Professional Activities
 ======
 PC Member: KDD 2024, TheWebConf 2024, and ACML 2024
 
-Area Chair: ACM MM 2024
+Area Chair: ACM MM 2024/2025
 
 
 Honor and Awards
