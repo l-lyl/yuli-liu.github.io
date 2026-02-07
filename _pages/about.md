@@ -10,6 +10,8 @@ I am now working as a Lecturer in the Department of Computer Technology and Appl
 
 Recent News
 ======
+[2026-01] Milestone achieved: Published **10 CCF-A** papers as the first/sole author.
+
 [2025-07] Our paper "Why Generate When You Can Transform? Unleashing Generative Attention for Dynamic Recommendation" is accepted by [ACM Multimedia 2025](https://acmmm2025.org/).
 
 [2025-02] I will serve as Area Chair for [ACM MM 2025](https://acmmm2025.org/).
