@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now working as a Lecturer in the Department of Computer Technology and Application at Qinghai University, and am also appointed as an Associate Researcher at Quancheng Laboratory. I obtained my Ph.D. (Computer Science) from the Australian National University supervised by [Lexing Xie](https://users.cecs.anu.edu.au/~xlx/) and [Christian Walder](https://christianwalder.com/), M.S. (Computer Science and Technology) from Tsinghua University supervised by [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/), and B.E. (Computer Science and Technology) from Qinghai University. My major research interests are in Recommender Systems and Spam Detection, that is, recommending high-quality data that meets users' personalized needs and detecting low-quality data. 
+I am now working as a Associate Professor in the Department of Computer Technology and Application at Qinghai University, and am also appointed as an Associate Researcher at Quancheng Laboratory. I obtained my Ph.D. (Computer Science) from the Australian National University supervised by [Lexing Xie](https://users.cecs.anu.edu.au/~xlx/) and [Christian Walder](https://christianwalder.com/), M.S. (Computer Science and Technology) from Tsinghua University supervised by [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/), and B.E. (Computer Science and Technology) from Qinghai University. My major research interests are in Recommender Systems and Spam Detection, that is, recommending high-quality data that meets users' personalized needs and detecting low-quality data. 
 
 Recent News
 ======
